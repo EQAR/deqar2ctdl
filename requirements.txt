@@ -1,0 +1,13 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+coloredlogs==15.0.1
+deqarclient==1.0.0
+filelock==3.14.0
+humanfriendly==10.0
+idna==3.7
+requests==2.32.2
+requests-file==2.1.0
+six==1.16.0
+tldextract==5.1.2
+transliterate==1.10.2
+urllib3==2.2.1
