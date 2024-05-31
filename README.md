@@ -8,7 +8,7 @@ Mapping
 
 This is an illustration how [DEQAR](https://www.deqar.eu/) objects map to [CTDL](https://credreg.net/ctdl/terms) classes and how the relationships are described in CTDL properties:
 
-![images/EQAR - DEQAR - CTDL simple - open issues.png]
+![diagram illustrating the relationship between DEQAR and CTDL data models](images/EQAR%20-%20DEQAR%20-%20CTDL%20simple%20-%20open%20issues.png)
 
 Static data
 -----------
